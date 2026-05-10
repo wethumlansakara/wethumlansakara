@@ -55,28 +55,36 @@ fun_fact: "The best way to know me is to ask! 😉"
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB STATS (using profile-summary-cards — pre-rendered, very reliable) ===================== -->
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=wethumlansakara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450" alt="stats"/>
-    </td>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wethumlansakara&layout=compact&theme=tokyonight&hide_border=true&card_width=450&langs_count=8" alt="top langs"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/wethumlansakara">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wethumlansakara&theme=tokyonight" alt="profile details"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wethumlansakara&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wethumlansakara&theme=tokyonight" alt="most commit language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wethumlansakara&theme=tokyonight" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wethumlansakara&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
+</p>
+
+<!-- Streak stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wethumlansakara&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
+<!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wethumlansakara&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 </p>
 
+<!-- Activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wethumlansakara&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
