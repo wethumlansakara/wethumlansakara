@@ -1,9 +1,9 @@
-<!-- Animated Banner -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wethum%20Lansakara&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=18" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Wethum%20Lansakara&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="banner"/>
 </p>
 
-<!-- Typing animation -->
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B+I'm+Wethum+Lansakara;Computer+Science+%26+AI+Enthusiast+%F0%9F%A4%96;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+DSA;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -12,6 +12,7 @@
 
 <br/>
 
+<!-- ===================== ABOUT ME ===================== -->
 ## 🚀 About Me
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -32,39 +33,44 @@ fun_fact: "The best way to know me is to ask! 😉"
 
 ---
 
-## 🛠️ Languages & Tools
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-#### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,js,php,html,css" />
-</p>
+**💻 Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,js,php,html,css&theme=dark" />
 
-#### Frameworks & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,mysql,heroku" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/>
-</p>
+**⚙️ Frameworks & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,mysql,heroku&theme=dark" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/>
 
-#### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+**🧰 Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
 
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wethumlansakara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wethumlansakara&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=wethumlansakara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450" alt="stats"/>
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wethumlansakara&layout=compact&theme=tokyonight&hide_border=true&card_width=450&langs_count=8" alt="top langs"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wethumlansakara&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=wethumlansakara&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
@@ -77,7 +83,8 @@ fun_fact: "The best way to know me is to ask! 😉"
 
 ---
 
-## 🌐 Connect with Me
+<!-- ===================== CONNECT ===================== -->
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wethum-lansakara" target="_blank">
@@ -96,11 +103,13 @@ fun_fact: "The best way to know me is to ask! 😉"
 
 ---
 
+<!-- ===================== QUOTE ===================== -->
 <p align="center">
   <i>⭐ "The best way to predict the future is to create it."</i><br/>
   <i>— keep building, keep learning.</i>
 </p>
 
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 </p>
